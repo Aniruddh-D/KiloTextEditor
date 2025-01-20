@@ -4,6 +4,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/b0446432-1464-4d1b-ab6f-66f3179460c0)
+
+
 ## Features
 
 - **File Editing:** Open, modify, and save text files.
