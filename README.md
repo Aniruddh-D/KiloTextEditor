@@ -1,6 +1,6 @@
 # Kilo Text Editor
 
-**Kilo** is a lightweight, terminal-based text editor. It is a learning project inspired by [Antirez's Kilo editor](https://github.com/antirez/kilo). This editor is minimalistic yet functional, supporting basic text editing features, navigation, and file handling. It is written in C and designed to be portable across Unix-based systems (Linux/macOS) and Windows.
+**Kilo** is a lightweight, terminal-based text editor. It is a learning project inspired by [Antirez's Kilo editor](https://github.com/antirez/kilo). This editor is minimalistic yet functional, supporting basic text editing features, navigation, and file handling. It is written in C and designed to be portable across Unix-based systems.
 
 ---
 
